@@ -7,3 +7,7 @@ The primary objective of this EDA is to extract actionable insights from the vas
 
 # Methodology:
 The analysis involves the examination of a comprehensive dataset encompassing app categories, user reviews, ratings, and sentiments. Techniques such as descriptive statistics, sentiment analysis, and visualization are employed to distill meaningful patterns from the data.
+
+# Input Files:
+Play Store Data.csv - It contains the basic details of the app like number of user reviews, ratings, etc.
+User Reviews.csv - It contains the user reviews and its sentiment score for the respective app.
