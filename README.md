@@ -46,8 +46,8 @@ We analysis the install column to observe the effect of size, price, rating, con
 In conclusion, this EDA project serves as a comprehensive guide for navigating the Google Play Store landscape. By elucidating user sentiments and preferences, stakeholders can make informed decisions to enhance app quality, user satisfaction, and overall success in the competitive mobile application market.
 
 📚 References
-W3School
-Medium
-Stackoverflow
-Towards data science
-Python libraries documentation
+* W3School
+* Medium
+* Stackoverflow
+* Towards data science
+* Python libraries documentation
